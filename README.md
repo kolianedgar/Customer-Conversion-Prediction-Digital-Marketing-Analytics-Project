@@ -16,20 +16,15 @@ This project analyzes a digital marketing dataset to identify key drivers of cus
 4. **Predictive Modelling** – Compare ML models (Elastic Net, Random Forest, XGBoost)  
 
 ## 📁 Structure
+```text
 ├── 01_preprocessing/
-
 ├── 02_eda/
-
 ├── 03_statistical_modelling/
-
 ├── 04_modelling/
-
 ├── utils/
-
 ├── marketing.csv
-
 └── README.md
-
+```
 
 ## ⚙️ How to Run
 Run scripts in order:
