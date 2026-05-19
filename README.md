@@ -43,7 +43,8 @@ Run scripts in order:
 R (≥ 4.0) with packages:
 `dplyr`, `ggplot2`, `caret`, `pROC`, `PRROC`, `glmnet`, `randomForest`, `xgboost`, `broom` 
 
-## 👥 Contributors
+## 👥 Authors
 - Athar Ahmad Hatim Syed (https://github.com/SHINSYUN786)
-- Enes Sejdini (https://github.com/sejdinii)
 - Erato Georgiou (https://github.com/eratog)
+- Enes Sejdini (https://github.com/sejdinii)
+- Edgar Kolian (https://github.com/kolianedgar)
