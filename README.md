@@ -45,6 +45,6 @@ R (≥ 4.0) with packages:
 
 ## 👥 Authors
 - Athar Ahmad Hatim Syed (https://github.com/SHINSYUN786)
-- Erato Georgiou (https://github.com/eratog)
 - Enes Sejdini (https://github.com/sejdinii)
+- Erato Georgiou (https://github.com/eratog)
 - Edgar Kolian (https://github.com/kolianedgar)
